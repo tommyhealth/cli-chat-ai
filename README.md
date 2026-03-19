@@ -24,8 +24,8 @@ python chat.py
 |`/quit`              |Выйти                     |
 
 ## Структура файлов
-chat.py      — запуск и главный цикл
-auth.py      — авторизация и кэш токена
-api.py       — запросы к GigaChat API
-commands.py  — вывод /help и /settings
+chat.py      — запуск и главный цикл  
+auth.py      — авторизация и кэш токена  
+api.py       — запросы к GigaChat API  
+commands.py  — вывод /help и /settings  
 config.json  — ключ API (не коммитить!)
