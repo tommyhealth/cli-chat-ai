@@ -9,7 +9,7 @@ def print_help():
         "  /system <текст>      — задать system prompt\n"
         "  /settings            — текущие настройки\n"
         "  /help                — показать справку\n"
-        "  /exit                — выход\n"
+        "  /quit                — выход\n"
     )
 
 
